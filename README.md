@@ -3,6 +3,10 @@
 Features: Add, Delete, and Edit your Todo task all on one easy interaface 
 
 
+https://user-images.githubusercontent.com/86543368/182033613-ed91ae36-e8ff-4906-a239-f861c674c954.mp4
+
+
+
 https://user-images.githubusercontent.com/86543368/182033479-a7eb7a25-586d-45e1-83c9-a4ec027d94fe.mp4
 
 
