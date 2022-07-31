@@ -2,6 +2,10 @@
 
 Features: Add, Delete, and Edit your Todo task all on one easy interaface 
 
+
+https://user-images.githubusercontent.com/86543368/182033479-a7eb7a25-586d-45e1-83c9-a4ec027d94fe.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
