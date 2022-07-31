@@ -1,5 +1,7 @@
 # Fun Reactjs Todo list application
 
+Features: Add, Delete, and Edit your Todo task all on one easy interaface 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
